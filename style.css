@@ -108,3 +108,23 @@
     color: #fff;
     text-align: center;
 }
+.carousel-content{
+    margin-top: 32px;
+}
+.carousel-item img{
+    margin-left: auto;
+    margin-right: auto;
+}
+.carousel-indicators{
+    display: flex;
+    gap: 32px;
+}
+.carousel-indicators button {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    opacity: 10 !important;
+}
+.carousel-indicators .active{
+    background-color: #FF0000 !important;
+}
