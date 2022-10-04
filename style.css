@@ -85,7 +85,26 @@
 .navbar-nav .dropdown .dropdown-menu a:hover {
     background-color: #007AD5;
 }
-.page-1{
+.sec-2{
     width: 100%;
     height: 100vh;
+    background-color: #000;
+}
+.sec-2-hr{
+    width: 135px;
+    color: #fff;
+    opacity: 10;
+    border-top: 5px solid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    
+}
+.text{
+    color: #000;
+}
+.sec-2-text{
+    color: #fff;
+    text-align: center;
 }
